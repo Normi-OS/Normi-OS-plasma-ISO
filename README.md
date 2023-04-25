@@ -1,2 +1,2 @@
-# Normi-OS-xfce-ISO
-Normi-OS-xfce-ISO
+# Normi-OS-plasma-ISO
+Normi-OS-plasma-ISO

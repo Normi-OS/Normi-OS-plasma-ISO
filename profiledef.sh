@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="normi-os"
+iso_name="normi-os-plasma"
 iso_label="Normi-OS_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
 iso_publisher="iamvk1437k <https://github.com/iamvk1437k>"
 iso_application="Normi-OS Live/Rescue CD"
